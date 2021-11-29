@@ -6,8 +6,13 @@ module.exports = [
       },
 	   {
         "text": "马士兵",
-        "link": "/mashibing/",
-        "icon": "reco-document"
+        "icon": "reco-document",
+		"items": [
+          {
+            "text": "Zookeeper",
+            "link": "/docs/mashibing/01.zookeeper/zookeeper"
+          }
+        ]
       },
 	  {
         "text": "大数据",
